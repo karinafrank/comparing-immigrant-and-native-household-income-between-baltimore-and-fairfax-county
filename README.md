@@ -2,7 +2,7 @@ How Do Immigrant Status and Location Affect Household Income?
 ======
 ## An analysis of the correlations between immigrant status, census tract, and household income.
 
-This analysis was conducted by using open data from the [Opportunity Atlas](https://www.opportunityatlas.org/). The data used consisted of [immigrant household income]() across all subgroups and [native household income]() across all subgroups. Similar data was also included for [immigrant]() and [native] individual income]() for deeper inspection, but was not used in this analysis.
+This analysis was conducted by using open data from the [Opportunity Atlas](https://www.opportunityatlas.org/). The data used consisted of [immigrant household income]() across all subgroups and [native household income]() across all subgroups. Similar data was also included for [immigrant]() and [native] individual income() for deeper inspection, but was not used in this analysis.
 
 ### Data Analysis
 
@@ -35,7 +35,7 @@ The chart shows that in both locations, Baltimore City and Fairfax County, immig
 
 #### Average Income for Different Races across Census Tract and Immigrant Status
 
-![Image description]()
+![Image description](https://github.com/karinafrank/comparing-immigrant-and-native-household-income-between-baltimore-and-fairfax-county/blob/master/Graph%202.JPG)
 
 The chart shows that across location and immigrant status, except for immigrants in Fairfax County, Whites have a higher average household income, followed by Asians, Hispanics, and Blacks. Native Americans were found to have income rates similar to Blacks. This chart also shows that within race, average income tended to be higher in Faifax County than in Baltimore City, and that in most cases immigrants had higher household incomes than natives. 
 
