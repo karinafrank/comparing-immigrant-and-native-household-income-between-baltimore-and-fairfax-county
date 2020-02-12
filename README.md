@@ -2,7 +2,7 @@ How Do Immigrant Status and Location Affect Household Income?
 ======
 ## An analysis of the correlations between immigrant status, census tract, and household income.
 
-This analysis was conducted by using open data from the [Opportunity Atlas](https://www.opportunityatlas.org/). The data used consisted of [immigrant household income](https://github.com/karinafrank/comparing-immigrant-and-native-household-income-between-baltimore-and-fairfax-county/blob/master/Household_Immigrant.xlsx) across all subgroups and [native household income]() across all subgroups. Similar data was also included for [immigrant]() and [native] individual income() for deeper inspection, but was not used in this analysis.
+This analysis was conducted by using open data from the [Opportunity Atlas](https://www.opportunityatlas.org/). The data used consisted of [immigrant household income](https://github.com/karinafrank/comparing-immigrant-and-native-household-income-between-baltimore-and-fairfax-county/blob/master/Household_Immigrant.xlsx) across all subgroups and [native household income](https://github.com/karinafrank/comparing-immigrant-and-native-household-income-between-baltimore-and-fairfax-county/blob/master/Household_Native.xlsx) across all subgroups. Similar data was also included for [immigrant]() and [native] individual income() for deeper inspection, but was not used in this analysis.
 
 ### Data Analysis
 
