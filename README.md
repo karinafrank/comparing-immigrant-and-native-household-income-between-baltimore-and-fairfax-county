@@ -7,7 +7,7 @@ This analysis was conducted by using open data from the [Opportunity Atlas](http
 ### Data Analysis
 
 Four different data sets downloaded from the Opportunity Atlas were consolidated into a single Excel file and analyzed using the following steps.
-1. Data from the original Immigrant Individual Income data sheet was copied into a [new Excel file] (https://github.com/karinafrank/comparing-immigrant-and-native-household-income-between-baltimore-and-fairfax-county/blob/master/Data%20Analysis.xlsx) to prevent alterations to the original sheet. 
+1. Data from the original Immigrant Individual Income data sheet was copied into a [new Excel file](https://github.com/karinafrank/comparing-immigrant-and-native-household-income-between-baltimore-and-fairfax-county/blob/master/Data%20Analysis.xlsx) to prevent alterations to the original sheet. 
 2. The data was filtered via census tract name to only include the rows with data from Baltimore City and Fairfax County.
 3. As data was not analyzed across gender, all data columns containing "_gM_" or "_gF_" were deleted, leaving only columns with "_gP_" indicating data for all genders. 
    * The remaining data within the Immigrant Individual Income sheet varied across race, denoted "_rX_", and income percentile, denoted "_pX_". 
