@@ -29,13 +29,13 @@ Four different data sets downloaded from the Opportunity Atlas were consolidated
 
 #### Income Breakdown across Census Tract and Immigrant Status 
 
-![Image description](https://github.com/karinafrank/comparing-immigrant-and-native-household-income-between-baltimore-and-fairfax-county/blob/master/Graph%202.JPG)
+![Image description](https://github.com/karinafrank/comparing-immigrant-and-native-household-income-between-baltimore-and-fairfax-county/blob/master/Graph%201.JPG)
 
 The chart shows that in both locations, Baltimore City and Fairfax County, immigrants are more likely to have higher incomes than people native to the United States. Addtionally, people who live in Fairfax County are more likely to have higher incomes than their counterparts in Baltimore City. A possible explanation for this correlation is that Fairfax County is a suburb of Washington, D.c., and that many people who live there have government jobs. 
 
 #### Average Income for Different Races across Census Tract and Immigrant Status
 
-![Image description](link-to-image)
+![Image description]()
 
 The chart shows that across location and immigrant status, except for immigrants in Fairfax County, Whites have a higher average household income, followed by Asians, Hispanics, and Blacks. Native Americans were found to have income rates similar to Blacks. This chart also shows that within race, average income tended to be higher in Faifax County than in Baltimore City, and that in most cases immigrants had higher household incomes than natives. 
 
