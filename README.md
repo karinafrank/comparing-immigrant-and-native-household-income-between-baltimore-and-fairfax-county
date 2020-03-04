@@ -39,7 +39,10 @@ df_imm_income = pd.read_csv(household_immigrant)
 ```
 df_balt_fair_income = df_all_income[(df_all_income['cty']=="cty24510")|(df_all_income['cty']=="cty51059")]
 ```
-4. 
+4. A pivot table was then made using the data for the average income among the different races (Black, Hispanic, White, Native American, Asian)
+5. Repeat rows were added to the pivot table to allow for more refined selection of data relevant specifically by race and census tract.
+6. Columns for Race and Income (pertaining only to the specific subset specified) were created. This arbitrarily created rows that represented each sub population by census tract and race (ex: Baltimore Asian, Fairfax County Native American)
+7. A plot was then created using plotly, which created 9 different bars on a bar chart (Household income for Black, Hispanic, White and Asian for Immigrant/Native in both Baltimore and Fairfax, and 2 additional columns for Native in Baltimore and Fairfax Native Americans)
 
 ### Results
 
@@ -59,6 +62,7 @@ The chart shows that across location and immigrant status, except for immigrants
 
 ![alt text](https://github.com/karinafrank/comparing-immigrant-and-native-household-income-between-baltimore-and-fairfax-county/blob/master/Plotly%20Visualization.png)
 
+The same results comparing income for census tract and immigrant status among different races is shown above using plotly express in python.
 
 ### Conclusions
 
