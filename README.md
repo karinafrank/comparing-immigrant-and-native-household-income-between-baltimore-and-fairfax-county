@@ -6,6 +6,8 @@ This analysis was conducted by using open data from the [Opportunity Atlas](http
 
 ### Data Analysis
 
+#### Excel Analysis
+
 Four different data sets downloaded from the Opportunity Atlas were consolidated into a single Excel file and analyzed using the following steps.
 1. Data from the original Immigrant Individual Income data sheet was copied into a [new Excel file](https://github.com/karinafrank/comparing-immigrant-and-native-household-income-between-baltimore-and-fairfax-county/blob/master/Data%20Analysis.xlsx) to prevent alterations to the original sheet. 
 2. The data was filtered via census tract name to only include the rows with data from Baltimore City and Fairfax County.
@@ -24,6 +26,20 @@ Four different data sets downloaded from the Opportunity Atlas were consolidated
 8. A pivot table was created with groupings of income by race broken down by census tract and immigrant status.
    * A clustered column chart was created from the pivot table to show trends in income by race in each of locations/ situations as well as trends in income for these different races across these situations.
 9. Chart and axis titles were added to the charts to make them more readable by an audience. 
+
+#### Python Analysis
+
+To perform the same analysis as above in Python, a [Google Colaboratory](https://colab.research.google.com/drive/13LaPr4w2sO_tAemlQQD_PGSh5l_tA1kX) document was used, and the following steps were performed:
+1. The necessary packages were imported (pandas, numpy, plotly.express)
+2. The CSV files for [immigrant household income](https://raw.githubusercontent.com/karinafrank/comparing-immigrant-and-native-household-income-between-baltimore-and-fairfax-county/master/Household_ImmigrantCSV.csv) and [native household income](https://raw.githubusercontent.com/karinafrank/comparing-immigrant-and-native-household-income-between-baltimore-and-fairfax-county/master/Household_NativeCSV.csv) were imported and translated into data frames, for example:
+```
+df_imm_income = pd.read_csv(household_immigrant)
+```
+3. The data set was cut down to only include the relevant data for Baltimore and Fairfax County using the city codes with the following code
+```
+df_balt_fair_income = df_all_income[(df_all_income['cty']=="cty24510")|(df_all_income['cty']=="cty51059")]
+```
+4. 
 
 ### Results
 
