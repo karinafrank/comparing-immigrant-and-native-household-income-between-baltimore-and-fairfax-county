@@ -57,7 +57,7 @@ The chart shows that across location and immigrant status, except for immigrants
 
 #### Average Income for Different Races acorss Census Tract and Immigrant Status: Python Visualization
 
-![alt text](https://colab.research.google.com/drive/13LaPr4w2sO_tAemlQQD_PGSh5l_tA1kX#scrollTo=Rguy-EPGyHE3&line=1&uniqifier=1)
+![alt text](https://github.com/karinafrank/comparing-immigrant-and-native-household-income-between-baltimore-and-fairfax-county/blob/master/Plotly%20Visualization.png)
 
 
 ### Conclusions
