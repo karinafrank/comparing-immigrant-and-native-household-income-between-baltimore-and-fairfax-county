@@ -55,6 +55,10 @@ The chart shows that in both locations, Baltimore City and Fairfax County, immig
 
 The chart shows that across location and immigrant status, except for immigrants in Fairfax County, Whites have a higher average household income, followed by Asians, Hispanics, and Blacks. Native Americans were found to have income rates similar to Blacks. This chart also shows that within race, average income tended to be higher in Faifax County than in Baltimore City, and that in most cases immigrants had higher household incomes than natives. 
 
+#### Average Income for Different Races acorss Census Tract and Immigrant Status: Python Visualization
+
+![alt text](https://colab.research.google.com/drive/13LaPr4w2sO_tAemlQQD_PGSh5l_tA1kX#scrollTo=Rguy-EPGyHE3&line=1&uniqifier=1)
+
 
 ### Conclusions
 
