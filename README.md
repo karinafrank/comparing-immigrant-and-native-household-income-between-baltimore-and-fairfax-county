@@ -62,7 +62,7 @@ The chart shows that across location and immigrant status, except for immigrants
 
 ![alt text](https://github.com/karinafrank/comparing-immigrant-and-native-household-income-between-baltimore-and-fairfax-county/blob/master/Plotly%20Visualization.png)
 
-The same results comparing income for census tract and immigrant status among different races is shown above using plotly express in python.
+The same results comparing income for census tract and immigrant status among different races is shown above using plotly express in python. In python, it is possible to hover over the different bars on the chart and be shown exact income for the specific race and census tract.
 
 ### Conclusions
 
